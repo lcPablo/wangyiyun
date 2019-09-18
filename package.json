@@ -1,0 +1,10 @@
+{
+  "name": "wangyiyun",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "pablo",
+  "license": "MIT",
+  "dependencies": {
+    "webpack": "^4.40.2"
+  }
+}
